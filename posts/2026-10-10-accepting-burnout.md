@@ -1,7 +1,7 @@
 ---
-title: Accepting Burnout
+title: Accepting burnout
 category: Poem
-the scene: Finding a way through.
+excerpt: Finding a way through.
 ---
 <style>
   .sea-entry {
