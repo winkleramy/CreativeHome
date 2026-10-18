@@ -1,4 +1,4 @@
-# Small Hours — a personal creative home
+# Five Eight — a personal creative home
 
 A complete, responsive static site for poems, essays, stories, photographs, and videos. No browser JavaScript, database, or paid service is needed. Write files; GitHub Actions builds the homepage and individual entry pages on each push.
 
