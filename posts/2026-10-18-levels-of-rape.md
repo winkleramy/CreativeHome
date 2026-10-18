@@ -11,14 +11,14 @@ Why were we taught what to wear, how to be small, how to deny ourselves instead?
 A woman's body isn't their own  
 and we know it when we are teens,  
 eager to be desired and touched and seen  
-just as we are.
+as we wonder who we are.
 
-And we know this desire comes with sacrifice  
+We know our desire comes with sacrifice  
 that autonomy and want cannot coexist  
 that our desire itself is its forfeiture,  
 and marriage the ritualized embrace of our vice. 
 
-I don't remember now when I first knew  
+I don't remember when I first knew  
 that freedom and self-expression came at a cost  
 that rape is a natural consequence, a fair exchange.
 
@@ -32,7 +32,7 @@ levels of blame,
 the signs that she was asking for it,  
 the signs of her shame.
 
-But here is my real question, the one I can't ask..  
+But these are my real questions, the one I can't ask..  
 Who decided that rape is a fate worse than death,  
 that we lose anything of ourselves in the act?  
 Am I not the same person before and after?  
