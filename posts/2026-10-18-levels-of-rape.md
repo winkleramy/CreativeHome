@@ -11,7 +11,7 @@ Why were we taught what to wear, how to be small, how to deny ourselves instead?
 A woman's body isn't their own  
 and we know it when we are teens,  
 eager to be desired and touched and seen  
-as we wonder who we are.
+as we play at who we are.
 
 We know our desire comes with sacrifice  
 that autonomy and want cannot coexist  
