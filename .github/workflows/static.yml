@@ -31,12 +31,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Build the blog
+        run: python build.py
+      - name: Check the generated site
+        run: python test_site.py
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
+          # Upload the generated website
           path: 'dist'
       - name: Deploy to GitHub Pages
         id: deployment
