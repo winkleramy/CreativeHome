@@ -1,7 +1,7 @@
 ---
 title: Homebound
 category: Moments
-excerpt: Seeking answers to the elusive questions
+excerpt: Seeking answers to elusive questions
 ---
 
 I am two and a half weeks into this homebound chapter. That is almost two Scaramuchis. I have become an investigator of everyday moments. (Credit to Lance Oppenheimer for that line.) The rhythms of the day spin up, evolve, crash, and reinvent themselves. What is background and what is foreground? What is the support and what is the point? The everyday moments blur into purpose, but that unnamed purpose eludes, flirtatiously lingering in my consciousness, maybe there out of the corner of my eye.
