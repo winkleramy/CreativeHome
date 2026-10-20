@@ -21,6 +21,6 @@ Free of orbiting bodies
 The sky here is without obstruction  
 The air here free of sound  
 
-How holy the constraints that freed me
+How sacred the constraints that freed me
 
 ![The Dark](../assets/small-world.jpeg)
