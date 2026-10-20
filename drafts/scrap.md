@@ -14,3 +14,5 @@ It seems I'll never leave.
 
 We see each other through paper walls  
 and pretend we don't see or hear  
+
+A blackhole of the ephemeral
