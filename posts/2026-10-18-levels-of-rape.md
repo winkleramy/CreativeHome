@@ -1,7 +1,7 @@
 ---
 title: Levels of Rape
 category: Poem
-excerpt: Why did we learn to hold the blame but never self-defense?  
+excerpt: Taught to hold the blame in place of self-defense 
 ---
 
 Why didn't they fight for us?  
