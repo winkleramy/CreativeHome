@@ -1,7 +1,7 @@
 ---
 title: Levels of Rape
 category: Poem
-excerpt: Taught to hold the blame in place of self-defense 
+excerpt: Taught the blame in place of self-defense 
 ---
 
 Why didn't they fight for us?  
