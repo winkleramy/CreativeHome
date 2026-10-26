@@ -8,7 +8,7 @@ I imagine the day I won't carry these familiar worries. These worries, that dot 
 
 But one day they will explode for the last time. The softspots in the earth will grow roots and form a foundation. The security of my home in this place will mirror the inner refuge of my thoughts. 
 
-Built on transformed karma, the expanse of my imagination will have a safe harbor launch from, to return to, to carry with me always. 
+Built on transformed karma, the expanse of my imagination will have a safe harbor to launch from, to return to, to carry with me always. 
 
 Recovery will reside as family, as refuge, no longer a foreign agent to do battle against, to fight off like an incursion. Perhaps it will line my clothes like fleece. 
 
