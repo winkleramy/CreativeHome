@@ -1,6 +1,6 @@
 ---
 title: A few of my favorite things
-category: Moments
+category: Poem
 excerpt: Coffee - top of the list
 ---
 
