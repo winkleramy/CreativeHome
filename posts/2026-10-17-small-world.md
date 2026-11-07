@@ -6,7 +6,7 @@ excerpt: Walls closing in
 When did the world get so small,  
 And the walls that keep the world out cave in?  
 
-Find me a shovel, a winch, and a crowbar  
+Find me a shovel, a winch, a crowbar  
 And I'll pry open my inner door to the universe  
 
 Jump into that vastness without a parachute  
@@ -21,6 +21,7 @@ Free of orbiting bodies
 The sky here is without obstruction  
 The air here free of sound  
 
-How sacred the constraints that freed me
+These sacred constraints my soul unbound,  
+Unleashed within, what was lost is found.
 
-![The Dark](../assets/small-world.jpeg)
+![Small World](../assets/small-world.jpeg)
