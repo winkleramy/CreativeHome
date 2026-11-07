@@ -58,3 +58,9 @@ I become laser-focused on a puzzle, a problem to solve. My emotions are triggere
 I drove my supervisors crazy by metaphorically shooting myself in the foot over and over again when I sensed a hint that I wasn't perfectly correct. I couldn't see that my standard was different than anyone else's and I was duped over and over again by others' self-confidence. 
 
 Her story is another invitation to dive into that well with fuller presence and awareness. 
+
+Trap door release  
+Afraid to look down  
+Freedom in the sound  
+of wind and air and gravity defied,  
+I'm terrified.
