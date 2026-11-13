@@ -1,10 +1,12 @@
 ---
 title: Autistic Adulting
 category: Story
-excerpt: Who am I kidding
+excerpt: This seemed like a good idea at 4am...
 ---
 
-This seemed like a good idea at 4am, high on ten hours of sleep, because 6pm is my bedtime when daylight savings time ends. Four hours and a full cup of espresso later, I'm not so sure. 
+... high on ten hours of sleep, because 6pm is my bedtime when daylight savings time ends. Four hours and a full cup of espresso later, I'm not so sure. 
+
+![Animal](../assets/animal-in-pajamas.jpg)
 
 Do I actually care about this now? What gets through the fog in my brain so thick it could be the setting for The Mist? Like an emerging monster, I resurrected myself from Stephen King's Pet Sematary, as one of its feral cats without memory of my past life, my soul yet unclaimed in some Lost and Found. Fuck this unholy burial ground.
 
@@ -22,7 +24,7 @@ So interesting what causes my throat to close up - the wrong food in, the wrong 
 
 Our deepest wounds are easily reburied in the sunlight. The voices in this shame game don a legitimacy when the veil between the worlds thickens again. This game of chicken, right? Well, fuck it. I know I'm wrong. Those early doubts of my instincts, my natural way of being, hardened into beliefs and I sought out those harsh, suffocating boundaries in my lovers. The cure for gender confusion and lesbianism is well known in our collective subconscious. My struggle to focus, to stay on task, to read the room, to control my impulses and over-excitability, could all be explained by the inferiority of my sex. My unspoken autistic needs needed to be compensated. The cost of care paid in a familiar currency, one carved into our evolving DNA and collective memory.
 
-I can feel the rawness of the details in my heart and in my gut, in my mother loving cunt, but they won't percolate past my jaw. I did this to myself afterall.
+I can feel the rawness of the details in my heart and in my gut, in my mother loving cunt, but they won't percolate past my jaw. I did this to myself.
 
 ---
 
@@ -34,3 +36,9 @@ I can feel the rawness of the details in my heart and in my gut, in my mother lo
 Recovery often requires sustained reductions in demands, increased accommodations, and meaningful changes to the circumstances that contributed to burnout.*
 
 I gave up leaving the house a month ago. The predictability and ease of living alone unlocked something within me and I started to write. My self-expression felt alien and I watched it with a kind of disgusted fascination. But now the isolation and dissociation are bringing me right up to that familiar destructive edge, wanting to get higher on adrenaline and pure impulse. Makes total sense in retrospect why I was so willing to give up bodily autonomy for support. These unnamed neurodivergent needs played right into the conservative prejudices I grew up in. The self-doubt hardened into beliefs in my wrongness in every category and sought corrective forces in my relationships, people who could keep my natural ways of being in check. I'm unleashed in all ways now, good and bad, for better or for worse. 
+
+---
+
+The world's a stage, right? I think so. I remember the players I performed, the ones I carefully crafted and grew to love. And they were lovable. They didn't carry any baggage or suffer any drama. No slings and arrows of outrageous fortune touched them. Simple, deep in purely productive ways.
+
+As I watch these players fade into The Mist, being devoured, presumably, by dragons, I can't imagine who is left. There are pieces strewn about that my two hands try to work into some three dimensional shape, but it's not quite working.
